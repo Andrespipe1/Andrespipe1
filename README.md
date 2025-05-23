@@ -1,1 +1,1 @@
-![Snake animation](./dist/github-snake.svg)
+![Snake animation](./dist/github-snake-dark.svg)
